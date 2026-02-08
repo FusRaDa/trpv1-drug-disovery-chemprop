@@ -2,7 +2,10 @@
 
 ### Process steps
 1. parse data from ChEMBL of molecule interactions with TRPV1
-  * View ouputs: https://nbviewer.org/github/FusRaDa/trpv1-drug-disovery-chemprop/blob/main/0_trpv1_agonists_data.ipynb
+  * View notebook: https://github.com/FusRaDa/trpv1-drug-disovery-chemprop/blob/main/0_trpv1_agonists_data.ipynb
 
 2. train and test ChemProp model
-  * View output: 
+  * View notebook: https://github.com/FusRaDa/trpv1-drug-disovery-chemprop/blob/main/1_trpv1_chemprop_train_test.ipynb
+
+3. make predictions with model
+  * View notebook: https://github.com/FusRaDa/trpv1-drug-disovery-chemprop/blob/main/02_trpv1_chemprop_predict.ipynb
