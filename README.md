@@ -12,9 +12,9 @@
 
 
 ### Pros and cons
-* The power behind machine learning is **Pattern Recognition**. Chemprop is based off linear regression where it produces a trending line between the chemical structure (SMILES) and the target (in this case, pChEMBL values). Knowing this, machine learning cannot replace an experienced chemist who understands the actual implications but rather serves as guide to what is feasible or not.
+* The power behind machine learning is **Pattern Recognition**. Chemprop is based off linear regression where it produces a trending line between the chemical structure (SMILES) and the target (in this case, pChEMBL values). Knowing this, machine learning cannot replace an experienced chemist who understands the actual implications but rather serves as a guide to what is feasible or not.
 
-* To clariify, pChEMBL values is a global/standard value used to compare compound potency of each row of data in the database.
+* To clarify, pChEMBL values is a global/standard value used to compare compound potency of each row of data in the database.
   * Here is an example of compounds that have been recorded to having interaction with TRPV1: https://www.ebi.ac.uk/chembl/explore/activities/STATE_ID:EaSiRjZbYZGLqZd7CgNV7g%3D%3D
   * Notice the standard type (method of analysis) differs. The pChEMBL aims to standardized each row of data so that we can compare the potency or effectivity of the compounds listed.
 
@@ -35,7 +35,7 @@
 ### Questions to ask to get the gears rolling...
 - What chemical properties contribute to a more effective non-opoid painkiller?
 
-- Is RTX the most effective non-opoid pain killer that we know of?
+- Is RTX the most effective non-opioid pain killer that we know of?
   - Quick Google search: Suzetrigine?
 
 
