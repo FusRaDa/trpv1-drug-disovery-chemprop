@@ -39,4 +39,10 @@
   - Quick Google search: Suzetrigine?
 
 
+### Citations
 
+Kevin Yang, Kyle Swanson, Wengong Jin, Connor Coley, Philipp Eiden, Hua Gao, Angel Guzman-Perez, Timothy Hopper, Brian Kelley, Miriam Mathea, Andrew Palmer, Volker Settels, Tommi Jaakkola, Klavs Jensen, and Regina Barzilay. Analyzing learned molecular representations for property prediction. Journal of Chemical Information and Modeling, 59(8):3370–3388, 2019. PMID: 31361484. URL: https://doi.org/10.1021/acs.jcim.9b00237, arXiv:https://doi.org/10.1021/acs.jcim.9b00237, doi:10.1021/acs.jcim.9b00237.
+
+Esther Heid, Kevin P. Greenman, Yunsie Chung, Shih-Cheng Li, David E. Graff, Florence H. Vermeire, Haoyang Wu, William H. Green, and Charles J. McGill. Chemprop: a machine learning package for chemical property prediction. Journal of Chemical Information and Modeling, 64(1):9–17, 2024. PMID: 38147829. URL: https://doi.org/10.1021/acs.jcim.3c01250, arXiv:https://doi.org/10.1021/acs.jcim.3c01250, doi:10.1021/acs.jcim.3c01250.
+
+Santos R., A comprehensive map of molecular drug targets Nat. Rev. Drug Disc. 16(1):19-34
